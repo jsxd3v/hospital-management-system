@@ -1,0 +1,3 @@
+# Show the product's main language on GitHub (this showcase has no source code).
+*.md linguist-detectable=true linguist-documentation=false linguist-language=Python
+docs/*.md linguist-detectable=true linguist-documentation=false linguist-language=TypeScript
